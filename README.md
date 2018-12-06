@@ -10,10 +10,13 @@ npm install md-http -g
 ## use
 
 md-http --path="your md path" --port 80
-![使用图片](https://blog.getlove.cn/img/md-http.gif)
+
+## 快速开启服务
+![md-http](https://hdpublic.getlove.cn/5bdaee16948c7e5bb482b21d.gif)
 
 ## pm2 启动
-![使用图片](https://blog.getlove.cn/img/md-http-pm2.gif)
+	pm2 start md-http -- --port 9003 --path="your/md/path"
+![md-http-pm2](https://hdpublic.getlove.cn/5bdaee21948c7e5bb482b21e.gif)
 
 ## options
 
