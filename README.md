@@ -1,8 +1,5 @@
 # md-http
-使用浏览器来访问markdown文件
-## home
-[https://blog.getlove.cn/nodejs/%E4%BD%BF%E7%94%A8md-http%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2](https://blog.getlove.cn/nodejs/%E4%BD%BF%E7%94%A8md-http%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2)
-
+使用浏览器来访问markdown文件,可用于局域网或者公网markdown文档的分享
 
 ## install
 npm install md-http -g
