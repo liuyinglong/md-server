@@ -23,4 +23,16 @@ markdown文件路径 默认当前目录
 端口号 默认3000
 
 
+## LICENSE
+
+[MIT](http://opensource.org/licenses/MIT)
+Copyright (c) 2017-present, liuyinglong
+
+
+
+
+
+
+
+
 
