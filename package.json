@@ -32,5 +32,5 @@
     "yargs": "^8.0.2"
   },
   "_from": "md-http@1.0.2",
-  "_resolved": "http://registry.npm.taobao.org/md-http/download/md-http-1.0.2.tgz"
+  "_resolved": "https://registry.npmmirror.com/md-http/download/md-http-1.0.2.tgz"
 }
